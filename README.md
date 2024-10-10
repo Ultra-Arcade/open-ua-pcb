@@ -2,9 +2,9 @@
 
 This repository is a collection of open-source hardware designs made by Ultra Arcade.
 
-# [16WASD MX Southpawn Passthrough](/16WASD%20MX%20Southpawn%20Passthrough)
+# [16WASD MX Southpaw Passthrough](/16WASD%20MX%20Southpaw%20Passthrough)
 
-![16WASD MX Southpawn Passthrough Picture](/16WASD%20MX%20Southpawn%20Passthrough/Assets/PCBPic2.png)
+![16WASD MX Southpaw Passthrough Picture](/16WASD%20MX%20Southpaw%20Passthrough/Assets/PCBPic2.png)
 
 # Licensing
 
