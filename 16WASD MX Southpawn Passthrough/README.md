@@ -1,7 +1,7 @@
 # 16WASD MX Southpawn Passthrough
-![16WASD MX Southpawn Passthrough 1](Assets/PCBPic1.jpg)
+![16WASD MX Southpawn Passthrough 1](Assets/PCBPic1.png)
 
-![16WASD MX Southpawn Passthrough 2](Assets/PCBPic2.jpg)
+![16WASD MX Southpawn Passthrough 2](Assets/PCBPic2.png)
 
 ---
 
@@ -68,11 +68,11 @@ If all looks well here you can click on the `SAVE TO CART` button.
 5 - The `Secure Checkout` process will be different based on your location in the world.  We recommend researching your shipping options to choose the one that is right for your application. 
 
 You will need the following parts to assemble the 16WASD MX Southpawn Passthrough:
-2 x 6x6x7 tactile switches - [LINK](https://www.aliexpress.com/item/1005004159746274.html)
-1 x Waveshare RP2040 Zero, clone or similar - [LINK](https://www.aliexpress.com/item/1005005910512138.html)
-1 x Mid-mount USB passthrough port - [LINK](https://www.aliexpress.com/item/1005005686242161.html)
-16 x CherryMX Hotswap Sockets - [LINK](https://www.aliexpress.com/item/1005006108246232.html)
-16 x Cherry MX Switches (5 Pins Preferred) - [LINK](https://www.aliexpress.com/item/1005006452799449.html)
+- 2 x 6x6x7 tactile switches - [LINK](https://www.aliexpress.com/item/1005004159746274.html)
+- 1 x Waveshare RP2040 Zero, clone or similar - [LINK](https://www.aliexpress.com/item/1005005910512138.html)
+- 1 x Mid-mount USB passthrough port - [LINK](https://www.aliexpress.com/item/1005005686242161.html)
+- 16 x CherryMX Hotswap Sockets - [LINK](https://www.aliexpress.com/item/1005006108246232.html)
+- 16 x Cherry MX Switches (5 Pins Preferred) - [LINK](https://www.aliexpress.com/item/1005006452799449.html)
 
 ---
 
