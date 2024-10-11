@@ -77,6 +77,8 @@ You will need the following parts to assemble the WASD Kailh MX Passthrough:
 - 9 x Kailh Hotswap Sockets - [LINK](https://www.aliexpress.com/item/1005004916925259.html)
 - 9 x Kailh Choc V2 Switches - [LINK](https://www.aliexpress.com/item/1005005066626541.html)
 - 9 x Kailh Choc V2 Round Keycaps - [LINK](https://www.aliexpress.com/item/1005004526308262.html)
+- 11 x M4 Rivet Nuts - [LINK](https://www.aliexpress.com/item/1005005242016053.html)
+- 11 x M4x10 Bolts - [LINK](https://www.aliexpress.com/item/1005005493205421.html)
 
 ---
 

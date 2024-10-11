@@ -73,6 +73,8 @@ You will need the following parts to assemble the 16WASD MX Southpaw Passthrough
 - 1 x Mid-mount USB passthrough port - [LINK](https://www.aliexpress.com/item/1005005686242161.html)
 - 16 x CherryMX Hotswap Sockets - [LINK](https://www.aliexpress.com/item/1005006108246232.html)
 - 16 x Cherry MX Switches (5 Pins Preferred) - [LINK](https://www.aliexpress.com/item/1005006452799449.html)
+- 11 x M4 Rivet Nuts - [LINK](https://www.aliexpress.com/item/1005005242016053.html)
+- 11 x M4x10 Bolts - [LINK](https://www.aliexpress.com/item/1005005493205421.html)
 
 ---
 
