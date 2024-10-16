@@ -1,7 +1,7 @@
-# Circle WASD Passthrough
-![Circle WASD Passthrough 1](Assets/PCBPic1.png)
+# 16B Passthrough
+![16B Passthrough 1](Assets/PCBPic1.png)
 
-![Circle WASD Passthrough 2](Assets/PCBPic2.png)
+![16B Passthrough 2](Assets/PCBPic2.png)
 
 ---
 
@@ -23,7 +23,7 @@ Changes from the original design:
 
 ## Summary: 
 
-An alternate WASD aligned Flatbox.
+A 16 face button-style Flatbox.
 
 While BOM and CPL files are provided, it is recommended to order and assemble these yourself.
 
@@ -39,7 +39,7 @@ Please note that you will need to source and solder your own Waveshare RP2040-Ze
 
 2 - Click on `Instant Quote`<br/>
 
-3 - Click on `Add Gerber file` and choose the file named `Gerber - Circle WASD Passthrough.zip` from the `Hardware Files` folder<br/>
+3 - Click on `Add Gerber file` and choose the file named `Gerber - 16B Passthrough.zip` from the `Hardware Files` folder<br/>
 
 4 - Choose the following options for the board:<br/>
 - Base Material = FR-4<br/>
@@ -68,14 +68,14 @@ If all looks well here you can click on the `SAVE TO CART` button.
 5 - The `Secure Checkout` process will be different based on your location in the world.  We recommend researching your shipping options to choose the one that is right for your application. 
 
 You will need the following parts to assemble the Circle WASD Passthrough:
-- 6 x 6x6x7 tactile switches - [LINK](https://www.aliexpress.com/item/1005004159746274.html)
+- 2 x 6x6x7 tactile switches - [LINK](https://www.aliexpress.com/item/1005004159746274.html)
 - 1 x Waveshare RP2040 Zero, clone or similar - [LINK](https://www.aliexpress.com/item/1005005910512138.html)
 - 1 x Mid-mount USB passthrough port - [LINK](https://www.aliexpress.com/item/1005005686242161.html)
-- 12 x Kailh Hotswap Sockets - [LINK](https://www.aliexpress.com/item/1005004916925259.html)
-- 12 x Kailh Choc V2 Switches - [LINK](https://www.aliexpress.com/item/1005005066626541.html)
-- 12 x Kailh Choc V2 Round Keycaps - [LINK](https://www.aliexpress.com/item/1005004526308262.html)
-- 11 x M4 Rivet Nuts - [LINK](https://www.aliexpress.com/item/1005005242016053.html)
-- 11 x M4x10 Bolts - [LINK](https://www.aliexpress.com/item/1005005493205421.html)
+- 16 x Kailh Hotswap Sockets - [LINK](https://www.aliexpress.com/item/1005004916925259.html)
+- 16 x Kailh Choc V2 Switches - [LINK](https://www.aliexpress.com/item/1005005066626541.html)
+- 16 x Kailh Choc V2 Round Keycaps - [LINK](https://www.aliexpress.com/item/1005004526308262.html)
+- 8 x M4 Rivet Nuts - [LINK](https://www.aliexpress.com/item/1005005242016053.html)
+- 8 x M4x10 Bolts - [LINK](https://www.aliexpress.com/item/1005005493205421.html)
 
 ---
 
