@@ -12,7 +12,7 @@ This repository is a collection of open-source hardware designs made by Ultra Ar
 
 # [Circle WASD Passthrough](/Cirle%20WASD%20Passthrough)
 
-![Circle WASD Passthrough Picture](/Cirle%20WASD%20Passthrough/Assets/PCBPic2.png)
+![Circle WASD Passthrough Picture](/Circle%20WASD%20Passthrough/Assets/PCBPic2.png)
 
 # [16B Passthrough](/16B%%20Passthrough)
 
